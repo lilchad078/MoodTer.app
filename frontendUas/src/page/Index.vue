@@ -24,11 +24,7 @@
   
       <!-- button -->
       <section id="contact" class="video-section">
-        <div class="video-container">
-          <video id="myVideo" autoplay muted loop>
-            <source src="img/bg.mp4" type="video/mp4" />
-          </video>
-        </div>
+        
         <div class="container pb-5 pt-5">
           <div class="row text-center mb-1">
             <div class="col">
